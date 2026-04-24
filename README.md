@@ -119,9 +119,9 @@ Movie booking system.
 
 <p align="center">
 
-<img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=nameisdarshil&show_icons=true&locale=en&layout=compact" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=nameisdarshil&show_icons=true&locale=en&layout=compact" />
 
-<img width="465" src="https://github-readme-stats.vercel.app/api?username=nameisdarshil&show_icons=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=nameisdarshil&show_icons=true&locale=en" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameisdarshil" />
 
