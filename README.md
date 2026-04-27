@@ -1,129 +1,118 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi there! 👋, I'm Darshil Shah</h1>
+<h1 align="center">Hi 👋, I'm Darshil Shah</h1>
 
 <h3 align="center">
-Frontend Developer | MERN Stack | AWS Certified Cloud Practitioner
+Frontend Developer | MERN Stack | AWS Certified Cloud Practitioner ☁️
 </h3>
 
+<p align="center">
+Building modern web applications with clean UI, scalable architecture, and cloud deployment 🚀
+</p>
+
 ---
 
-<!-- ABOUT + MAIN GIF -->
+<!-- ================= MY GIF ================= -->
 
-<table>
-<tr>
+<p align="center">
+  <img src="images/dev-avatar.gif" width="260"/>
+</p>
 
-<td align="left" width="50%">
+---
 
-## 🚀 About Me 
+# 🚀 About Me
 
-- 🔭 Working on **Full-Stack Apps (React & Node.js)**
-  
+💻 Frontend-focused developer passionate about building scalable web applications.
+
+- 🔭 Currently building **Full-Stack MERN Applications**
 - 🌱 Learning **System Design & Advanced AWS**
-  
-- 👯 Open to **MERN Collaboration**
-  
-- 💬 Ask me about **JavaScript, React, MongoDB**
-  
-- 📫 Email: **djshah2000@gmail.com**
-  
-- ⚡ Studied in **India 🇮🇳 & Canada 🇨🇦**
-
-</td>
-
-<td width="40%">
-
-<img src="images/dev-avatar.gif" width="100%"/>
-
-</td>
-
-</tr>
-</table>
+- 👯 Open to **MERN Stack Collaboration**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 Reach me at **djshah2000@gmail.com**
+- 🌍 Studied in **India 🇮🇳 & Canada 🇨🇦**
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Highlights
 
-<p align="left">
+✔ AWS Certified Cloud Practitioner ☁️  
+✔ Built Multiple Full-Stack MERN Applications  
+✔ Strong Focus on Frontend Development  
+✔ Passionate About UI & Performance Optimization  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/darshilshah2001">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/ >
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+</a>
+
+<a href="https://github.com/nameisdarshil">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="55" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="55" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="55" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="55" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="55" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55" />
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/>
 
 </p>
 
 ---
 
-<!-- PROJECT SECTION GIF -->
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="images/web-dev.gif" height="400" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nameisdarshil&show_icons=true&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nameisdarshil&layout=compact&hide_border=true" width="48%" />
 
 </p>
 
-## 🚀 Featured Projects
+<p align="center">
 
-### 📌 Stock Newsletter Platform
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nameisdarshil&hide_border=true" width="55%" />
 
-MERN stack newsletter platform.
-
----
-
-### 🎬 Cine Magic Movie Booking
-
-
-Movie booking system.
+</p>
 
 ---
 
-<!-- FUN GIF -->
+# 🧠 Currently Learning
 
-## 🎯 When I'm Not Coding
+- System Design Fundamentals  
+- Advanced AWS Services  
+- Performance Optimization  
+- Scalable MERN Architectures  
+
+---
+
+# 🎯 When I'm Not Coding
 
 <p align="center">
 
-
-<img src="images/fun-dev.gif" height="400" width="500"/>
+<img src="images/fun-dev.gif" width="260"/>
 
 <br>
-☕ Coffee + Code = Productivity 🚀
+
+☕ Coffee + Code = Productivity 🚀  
 
 </p>
-
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=nameisdarshil&show_icons=true&locale=en&layout=compact" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=nameisdarshil&show_icons=true&locale=en" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nameisdarshil" />
-
-</p>
-
