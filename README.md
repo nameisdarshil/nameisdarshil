@@ -80,13 +80,13 @@ Building modern web applications with clean UI, scalable architecture, and cloud
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nameisdarshil&show_icons=true&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nameisdarshil&layout=compact&hide_border=true" width="48%" />
 
-</p>
+</p> -->
 
 <p align="center">
 
